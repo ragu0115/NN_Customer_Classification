@@ -1,4 +1,4 @@
-# NN_Customer_Classification
+# Banking ML Solution: Predicting Customer Churn
 
 ## Context
 
